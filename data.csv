@@ -1,0 +1,11 @@
+transaction_id,customer_id,age,gender,card_type,transaction_amount,merchant_category,city,transaction_hour,is_fraud
+1,101,28,M,Debit,42.5,Supermarket,Baku,14,0
+2,101,28,M,Debit,320.0,Electronics,Baku,17,0
+3,102,35,F,Credit,8.0,Cafe,Ganja,9,0
+4,103,42,M,Credit,1900.0,Luxury Store,Baku,22,1
+5,104,30,F,Debit,15.0,Cafe,Sumqayit,8,0
+6,105,52,M,Credit,860.0,Travel,Baku,11,0
+7,106,47,M,Credit,5000.0,Jewelry,Baku,2,1
+8,107,25,F,Debit,23.0,Supermarket,Sumqayit,16,0
+9,108,33,F,Credit,110.0,Clothing,Nakhchivan,19,0
+10,109,29,M,Credit,2999.0,Online Shopping,Baku,3,1
